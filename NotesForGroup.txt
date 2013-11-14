@@ -1,0 +1,1 @@
+Chris says: Unable to view source of hw6-ours.html on iPad.  If someone someone else could add that to this repo, that'd be sweet.  I don't know for sure what Kenneth's github account is but I added farken24 as a collaborator on this repo.
