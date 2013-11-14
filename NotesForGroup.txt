@@ -1,1 +1,6 @@
-Chris says: Unable to view source of hw6-ours.html on iPad.  If someone someone else could add that to this repo, that'd be sweet.  I don't know for sure what Kenneth's github account is but I added farken24 as a collaborator on this repo.
+Chris says: Unable to view source of hw6-ours.html on iPad.  If someone someone else could add that to this repo, 
+that'd be sweet.  I don't know for sure what Kenneth's github account is but I added farken24 as a collaborator on
+this repo.
+
+Chris says: Got hw6-ours.html uploaded and updated, confirmed that Kenneth is farken24.  Please add your names to the
+hw6-ours.html file.  See you in class.
