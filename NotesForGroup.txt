@@ -4,3 +4,5 @@ this repo.
 
 Chris says: Got hw6-ours.html uploaded and updated, confirmed that Kenneth is farken24.  Please add your names to the
 hw6-ours.html file.  See you in class.
+
+Chris says:  Added user 'ranste' as a collaborator per Kenneth's request.
