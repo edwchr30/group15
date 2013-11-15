@@ -8,3 +8,6 @@ hw6-ours.html file.  See you in class.
 Chris says:  Added user 'ranste' as a collaborator per Kenneth's req
 
 sam: hey so i can work whenever i am also in group b, but working remotely works for me as well. 
+
+sam: see if you can get on this http://ada.evergreen.edu/~golsam27/seq2.c
+
