@@ -30,7 +30,9 @@ rounded_height = ["Harry"] = 7
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 4 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+
+print rounded_height['Nate']
+rounded_height = ["Terry"] = 8
 
 
 ###
