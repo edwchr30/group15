@@ -51,7 +51,11 @@ print "Problem 5 solution follows:"
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 6 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+x = 0
+n = 5
+while x < n:
+    x += 1 
+    print (x)
 
 ###
 ### Problem 7
