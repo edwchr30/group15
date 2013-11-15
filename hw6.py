@@ -64,8 +64,24 @@ while x < n:
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 7 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+y = 10
+q = 0
+while(q < y):
+        print "iteration counter"
+        q = q + 1
+        
+In [29]: %run "c:\users\sam\appdata\local\temp\tmpujanur.py"
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter
+iteration counter        
+### i got a bit confused in exactly you wanted me to do so i did this. hope this was right but i dont think so 
 ###
 ### Collaboration
 ###
