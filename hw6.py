@@ -1,5 +1,5 @@
-# Name: Chris Edwards, 
-# Evergreen Login: edwchr30, 
+# Name: Chris Edwards, Sam Goldsmith
+# Evergreen Login: edwchr30, golsam27
 # Computer Science Foundations
 # Programming as a Way of Life
 # Homework 6
