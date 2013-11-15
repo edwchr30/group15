@@ -17,8 +17,11 @@
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 3 solution follows:"
 
-# ... write your code and comments here (and remove this line)
-
+rounded_height = {}
+rounded_height = ["John"] = 6
+rounded_height = ["Mike"] = 5
+rounded_height = ["Nate"] = 6
+rounded_height = ["Harry"] = 7
 
 ###
 ### Problem 4
