@@ -56,6 +56,19 @@ n = 5
 while x < n:
     x += 1 
     print (x)
+//////////////////////////////
+n = range(1,11)
+for count in n:
+    print (count)
+//////////////////////////////
+
+x = 0
+for N in range(1,11):
+    
+        x = x + 1
+        
+        print (x)
+
 
 ###
 ### Problem 7
